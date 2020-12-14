@@ -3,11 +3,11 @@
   <title>Ruji Xie&#39;s Notes</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://github.com/woooks/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://github.com/woooks/"/>
   <updated>2020-12-14T18:23:32.296Z</updated>
-  <id>http://example.com/</id>
+  <id>https://github.com/woooks/</id>
   
   <author>
     <name>Ruji Xie</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2020/12/14/hello-world/"/>
-    <id>http://example.com/2020/12/14/hello-world/</id>
+    <link href="https://github.com/woooks/2020/12/14/hello-world/"/>
+    <id>https://github.com/woooks/2020/12/14/hello-world/</id>
     <published>2020-12-14T18:23:32.296Z</published>
     <updated>2020-12-14T18:23:32.296Z</updated>
     
